@@ -1,2 +1,9 @@
+flask
 requests
+pycryptodome
+pywin32
+pillow
+opencv-python
+sounddevice
+numpy
 httpagentparser
